@@ -1,2 +1,2 @@
-# on_air
-This is an open source social messaging app, much like Yik Yak, targeting university campuses.  
+# micro_blogging
+This is an open source micro-blogging app, much like Twitter
